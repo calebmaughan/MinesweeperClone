@@ -1,0 +1,27 @@
+.button{
+    -fx-background-color: gainsboro;
+    -fx-border-width: .5;
+    -fx-border-color: black;
+
+}
+.button:hover{
+    -fx-background-color: khaki;
+}
+#correct-flag{
+    -fx-background-color: green;
+}
+#incorrect-flag{
+    -fx-background-color: yellow;
+}
+#unmarked-mine{
+    -fx-background-color: red;
+}
+#pressed{
+    -fx-background-color: white;
+}
+#flag{
+    -fx-background-color: lightblue;
+}
+#flag:hover{
+    -fx-background-color: khaki;
+}
